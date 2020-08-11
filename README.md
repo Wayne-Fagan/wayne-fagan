@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a software engineer at [Giant](https://www.giantmade.com/). I specialise in Python, specifically Django.
+
+My personal blog is at [waynefagan.dev](https://www.waynefagan.dev)
+
 <!--
 **Wayne-Fagan/wayne-fagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
